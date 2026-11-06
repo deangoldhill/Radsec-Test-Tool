@@ -18,6 +18,9 @@ The tool was designed to assist with enabling Radsec on the RadiusStack platform
 
 *Custom attributes - define attributes and value to be sent as part of the execution, with the ability to define static or random values.
 
+# Running the tool
+Either build from source or download the executable from the releases page. 
+
 # Support, feature requests and contribution
 Please submit a github ticket if you need any assistance, would like a request a feature, or would like to contribute this this or any RadiusStack associated projects.
 
